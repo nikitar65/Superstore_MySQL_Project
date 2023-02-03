@@ -1,1 +1,1 @@
-# Superstore_MySQL_Project
+# MySQL Project: Superstore
