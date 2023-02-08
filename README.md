@@ -2,6 +2,16 @@
 
 ![Superstore_MySQL_Project_2901](https://user-images.githubusercontent.com/124327898/216510795-3be05401-ecbe-45b5-b089-0971ac7030b9.jpg)
 
+<h2>About the Company</h2>
+
+• The company largely sells various items of furniture along with phones in the United States of America.
+
+• It has divided the regions of operations into four: Central, East, West and South.
+
+• It caters to three different segments: Consumers, Corporate and Home Office.
+
+<h2>Observations</h2>
+
 From a cursory analysis of the data, following observations were drawn about the Furniture category:
 
 • While tables is the second highest selling product in the category, it a loss making subcategory with 8% profit margins. Higher sales of tables may cause other profit making products to sell less as the composition of inventory will be different.
@@ -10,30 +20,30 @@ From a cursory analysis of the data, following observations were drawn about the
 
 • Central region has incurred losses at an overall level.
 
-**The following steps should be taken to increase revenue and minimize losses**
+<h2>Next Steps</h3>
 
 **Tables**
 
 • Renegotiations may be done with the existing vendors, if applicable, who are manufacturing the table.
-• The materials used in the tables may be changed to what is in demand.
+<br>• The materials used in the tables may be changed to what is in demand.</br>
 
 **Furnishings**
 
 • Discontinuing or scaling down certain sub categories will enable a better reallocation of the budget towards furnishing.
-• This could help in increasing marketing activities such as giving discounts to attract customers.
+<br>• This could help in increasing marketing activities such as giving discounts to attract customers.<br>
 
 **Stores in the Central region**
 
 • The feasibility of keeping the store(s) operational in the Central region should be assessed, which could be done by analysing the data from previous years.
-• The stores in the Central region should also be evaluated based on the product mix.
+<br>• The stores in the Central region should also be evaluated based on the product mix.</br>
 
 **Other ways to increase revenue**
 
 • Value added services such as furniture repairs and furnishings could be offered.
 
-**Appendix**
+<h2>Appendix</h2>
 
-**Approach**
+<h3>Approach</h3>
 
 • Acquired the dataset from a publicly available source and imported it into a SQL database.
 
@@ -45,8 +55,8 @@ From a cursory analysis of the data, following observations were drawn about the
 
 • Used Powerpoint to present the information to the concerned stakeholders.
 
-**SQL Functions Used**
+<h3>SQL Functions Used</h3>
 
 • Joins
-• Case Statements
+<br>• Case Statements</br>
 • Window Functions
